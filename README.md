@@ -1,5 +1,6 @@
 # Physics-guided DIC-GAN
 [![DOI](https://zenodo.org/badge/743515570.svg)](https://zenodo.org/doi/10.5281/zenodo.10513378)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7737880.svg)](https://doi.org/10.5281/zenodo.7737880)
 
 This repository contains the code used to generate the results of the research article
 ```
