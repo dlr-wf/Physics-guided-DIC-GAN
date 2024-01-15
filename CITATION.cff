@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Melching"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0001-5111-6511"
+- family-names: "Schultheis"
+  given-names: "Erik"
+  orcid: "https://orcid.org/0009-0007-4728-7124"
+- family-names: "Breitbarth"
+  given-names: "Eric"
+  orcid: "https://orcid.org/0000-0002-3479-9143"
+title: "Generating artificial displacement data of cracked specimen using physics-guided adversarial networks"
+version: 1.0.0
+doi: 
+date-released: 2023-01-10
+url: "https://github.com/dlr_wf/advanced_crack_tip_field_characterization"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Melching"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0001-5111-6511"
+  - family-names: "Breitbarth"
+    given-names: "Eric"
+    orcid: "https://orcid.org/0000-0002-3479-9143"
+  doi: "10.1088/2632-2153/ad15b2"
+  journal: "Machine Learning: Science and Technology"
+  title: "Generating artificial displacement data of cracked specimen using physics-guided adversarial networks"
+  volume: 4
+  pages: 045063
+  year: 2024
